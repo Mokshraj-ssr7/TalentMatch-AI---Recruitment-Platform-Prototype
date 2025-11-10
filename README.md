@@ -216,12 +216,12 @@ AI-powered recruitment operating system that automates:
 ## 📞 Contact & Commitment
 
 **Submission Date:** November 14, 2025  
-**Candidate:** [Your Name]  
-**Email:** [Your Email]  
-**Phone:** [Your Phone]  
+**Candidate:** Mokshrajsinh vikramsinh bodana
+**Email:** mokshtech6@gmail.com
+ 
 
 **Availability:** Full-time, ready to start immediately  
-**Commitment Level:** Building for long-term (internship → full-time role)  
+  
 
 ---
 
@@ -308,3 +308,4 @@ For a 10-year recruitment company, this is the **force multiplier** to go from g
 ---
 
 *Thank you for the opportunity! Let's transform recruitment together.* 🚀
+
